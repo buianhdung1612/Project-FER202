@@ -10,7 +10,7 @@ export default function SiderMenu() {
     // Tạo data cho Menu
     interface MenuLink {
         icon: ReactNode,
-        title: String,
+        title: string,
         link: Url
     }
 
